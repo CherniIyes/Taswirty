@@ -7,7 +7,7 @@ import Instagram from "@components/Instagram";
 export default function Home() {
   return (
     <div>
-      <Hero heading="Capture Photography" message="Capture the world, Capture the Moment" />
+      <Hero heading="Taswerty Photography" message="Capture the world, Capture the Moment" />
       <Slider slides={SliderData} />
       <Instagram />
     </div>
